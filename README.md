@@ -16,3 +16,8 @@ Personalized Offers Based on Purchase History:
 
 Leverage customer order history to send personalized offers. For example, if a customer frequently orders a specific type of item, sending targeted promotions for similar or complementary items can increase their likelihood of making repeat purchases.
 These recommendations should help in boosting customer engagement, increasing average order size, and enhancing overall sales based on the SQL data analysis
+
+![resturent Operation Analysis](https://github.com/user-attachments/assets/b9f6c5b1-8383-4a5d-92ec-1adc930d5bcf)
+
+
+
